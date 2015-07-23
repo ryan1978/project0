@@ -3,4 +3,6 @@
     <item name="primary" type="color">#FFC5CAE9</item>
     <item name="primary_dark" type="color">#FF3F51B5</item>
     <item name="accent" type="color">#FFD500F9</item>
+    <item name="highlight" type="color">#FFD500F9</item>
+
 </resources>

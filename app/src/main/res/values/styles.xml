@@ -8,4 +8,14 @@
         <item name="android:textColorPrimary">#FF000000</item>
     </style>
 
+    <style name="BlueButton" parent="AppTheme">
+        <item name="android:colorButtonNormal">@color/primary_dark</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+    </style>
+
+    <style name="PinkButton" parent="AppTheme">
+        <item name="android:colorButtonNormal">@color/highlight</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+    </style>
+
 </resources>
